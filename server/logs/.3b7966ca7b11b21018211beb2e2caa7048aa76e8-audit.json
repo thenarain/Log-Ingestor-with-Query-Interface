@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/kartikay/Documents/Log-Ingestor-with-Query-Interface/server/logs/.3b7966ca7b11b21018211beb2e2caa7048aa76e8-audit.json",
+    "files": [
+        {
+            "date": 1715685995185,
+            "name": "/home/kartikay/Documents/Log-Ingestor-with-Query-Interface/server/logs/log1.log.2024-05-14",
+            "hash": "9f9af39b017e2efd4eb974400dd3b7c9037dd80b04393bf6bc766a369f1cdd37"
+        }
+    ],
+    "hashType": "sha256"
+}
